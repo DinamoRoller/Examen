@@ -1,3 +1,0 @@
-C:/Users/suren/CLionProjects/Ej-2-examen/cmake-build-debug/CMakeFiles/Ej_2_examen.dir
-C:/Users/suren/CLionProjects/Ej-2-examen/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/suren/CLionProjects/Ej-2-examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
