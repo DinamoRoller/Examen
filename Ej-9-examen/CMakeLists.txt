@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.26)
-project(Ej_9_examen)
-
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(Ej_9_examen main.cpp)
