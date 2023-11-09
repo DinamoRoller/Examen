@@ -1,4 +1,9 @@
 
+# Examen
+https://github.com/DinamoRoller/Examen.git
+
+
+
 Preguntas tipo test
 
 1-D
@@ -33,7 +38,3 @@ La adquisición de recursos se refiere al proceso de obtener y asignar recursos 
 --¿Por qué es importante y cómo se relaciona con la gestión de excepciones?
 
 Se relaciona con la gestion de excepciones porque las excepciones pueden ocurrir al trabajar con recursos, y es importante liberar recursos dentro de los bloques "catch" para evitar problemas relacionados con excepciones y recursos.
-
-# Examen-tema-1
-https://github.com/DinamoRoller/Examen.git
-
