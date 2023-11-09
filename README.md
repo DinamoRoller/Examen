@@ -1,7 +1,11 @@
-Tipo test
+Preguntas tipo test
+
 1-D
+
 2-B
+
 3-B
+
 
 Preguntas de desarrollo
 
